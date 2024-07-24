@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/build/src",
+  "command": "C:\\Users\\TOMATO\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/planning_main.dir/includes_CXX.rsp -g -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c C:\\Users\\TOMATO\\Desktop\\vs_project\\cmake_planning_demo\\src\\planning_main.cpp",
+  "file": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/src/planning_main.cpp",
+  "output": "src/CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/build/src/pnc_map",
+  "command": "C:\\Users\\TOMATO\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE -Dpnc_map_EXPORTS  -g -o CMakeFiles\\pnc_map.dir\\pnc_map.cpp.obj -c C:\\Users\\TOMATO\\Desktop\\vs_project\\cmake_planning_demo\\src\\pnc_map\\pnc_map.cpp",
+  "file": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/src/pnc_map/pnc_map.cpp",
+  "output": "src/pnc_map/CMakeFiles/pnc_map.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/build/src/mprocess",
+  "command": "C:\\Users\\TOMATO\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE -Dprocess_EXPORTS @CMakeFiles/process.dir/includes_CXX.rsp -g -o CMakeFiles\\process.dir\\mprocess.cpp.obj -c C:\\Users\\TOMATO\\Desktop\\vs_project\\cmake_planning_demo\\src\\mprocess\\mprocess.cpp",
+  "file": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/src/mprocess/mprocess.cpp",
+  "output": "src/mprocess/CMakeFiles/process.dir/mprocess.cpp.obj"
+}
+]

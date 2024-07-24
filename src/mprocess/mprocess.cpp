@@ -1,5 +1,5 @@
 #include<iostream>
-#include "..\include\mprocess.h"
+#include "mprocess.h"
 
 void mProcess::planProcess()
 {

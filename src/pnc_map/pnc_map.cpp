@@ -1,5 +1,5 @@
 #include<iostream>
-#include "..\include\pnc_map.h"
+#include "pnc_map.h"
 
 void PNC_Map::mapInfo()
 {

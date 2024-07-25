@@ -16,5 +16,11 @@
   "command": "C:\\Users\\TOMATO\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE -Dprocess_EXPORTS @CMakeFiles/process.dir/includes_CXX.rsp -g -o CMakeFiles\\process.dir\\mprocess.cpp.obj -c C:\\Users\\TOMATO\\Desktop\\vs_project\\cmake_planning_demo\\src\\mprocess\\mprocess.cpp",
   "file": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/src/mprocess/mprocess.cpp",
   "output": "src/mprocess/CMakeFiles/process.dir/mprocess.cpp.obj"
+},
+{
+  "directory": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/build/src/show_result",
+  "command": "C:\\Users\\TOMATO\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE -Dshow_result_EXPORTS @CMakeFiles/show_result.dir/includes_CXX.rsp -g -o CMakeFiles\\show_result.dir\\show_result.cpp.obj -c C:\\Users\\TOMATO\\Desktop\\vs_project\\cmake_planning_demo\\src\\show_result\\show_result.cpp",
+  "file": "C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/src/show_result/show_result.cpp",
+  "output": "src/show_result/CMakeFiles/show_result.dir/show_result.cpp.obj"
 }
 ]

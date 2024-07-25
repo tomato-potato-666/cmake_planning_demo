@@ -1,5 +1,6 @@
 #include<iostream>
-#include"mprocess.h"
+#include"mprocess\mprocess.h"
+#include"show_result\show_result.h"
 
 int main()
 {
@@ -7,6 +8,9 @@ int main()
     mProcess pro;
     pro.planProcess();
     std::cout<<"planning end"<<std::endl;
+
+    ShowResult show;
+    show.drawResult();
 
     return 0;
 }

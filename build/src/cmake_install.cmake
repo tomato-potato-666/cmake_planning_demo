@@ -47,3 +47,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/build/src/mprocess/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/TOMATO/Desktop/vs_project/cmake_planning_demo/build/src/show_result/cmake_install.cmake")
+endif()
+
